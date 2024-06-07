@@ -1,0 +1,30 @@
+{
+	"info": {
+		"_postman_id": "402f4f04-e84a-4140-acd9-e07ee26559a6",
+		"name": "GoggleAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "34816114"
+	},
+	"item": [
+		{
+			"name": "SearchGoogle",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.google.com/",
+					"protocol": "https",
+					"host": [
+						"www",
+						"google",
+						"com"
+					],
+					"path": [
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
